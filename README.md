@@ -18,7 +18,7 @@ Cargar → Explorar → Detectar problemas → Limpiar → Calcular estadística
 
  ▶ Cómo abrir el notebook en Google Colab
 
-Haz clic en el siguiente botón:
+Haz clic en el siguiente enlace:
 
 https://colab.research.google.com/drive/1j5cn4xK0Gs2VtuFwIYspeq_dnHCkWPn5#scrollTo=538df90e
 
