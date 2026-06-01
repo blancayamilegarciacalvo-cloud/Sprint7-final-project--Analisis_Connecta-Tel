@@ -1,4 +1,4 @@
-# Sprint7_final_project_Analisis_Connecta_Tel
+# Sprint7_final_project: Analisis_Connecta_Tel
 
 El analisis que se realizo fue de la empresa de telecomunicaciones en latinoamerica Connectel, con operaciones en México y Colombia, donde se trabajo con informacion registrada hasta el año 2024, lo cual permitio analizar el comportamiento del negocio dentro de ese periodo.
 
